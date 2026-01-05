@@ -1,0 +1,71 @@
+Question: What is the time complexity of Binary Search?
+Options: O(n)|O(n^2)|O(log n)|O(n log n)
+Answer: 3
+
+Question: Which data structure uses FIFO?
+Options: Queue|Stack|Tree|Graph
+Answer: 1
+
+
+Question: What does DFS stand for?
+Options: Depth First Search|Data File Search|Data Flow Search|Direct File Search
+Answer: 1
+
+
+Question: Which sorting algorithm has the best average-case time complexity?
+Options: Merge Sort|Quick Sort|Selection Sort|Bubble Sort
+Answer: 1
+
+Question: What is the data structure used to implement recursion?
+Options: Queue|Stack|Array|Linked List
+Answer: 2
+
+
+Question: Which of the following is a linear data structure?
+Options: Array|Tree|Graph|Heap
+Answer: 1
+
+
+Question: Which data structure uses LIFO?
+Options: Queue|Stack|Tree|Graph
+Answer: 2
+
+
+Question: In a Graph, what does a cycle mean?
+Options: No Path|Infinite Nodes|Closed Path|Open Path
+Answer: 3
+
+
+Question: What is the time complexity of Insertion Sort in the worst case?
+Options: O(n)|O(n log n)|O(n^2)|O(1)
+Answer: 3
+
+
+Question: What is the best-case time complexity of Quick Sort?
+Options: O(n^2)|O(n log n)|O(n)|O(log n)
+Answer: 2
+
+
+
+Question: In a singly linked list, each node contains a data part and a/an?
+Options: Index|Pointer|Array|Graph
+Answer: 2
+
+
+Question: Which data structure allows dynamic resizing?
+Options: Array|Queue|Stack|Linked List
+Answer: 4
+
+Question: Which sorting algorithm is NOT stable?
+Options: Merge Sort|Bubble Sort|Insertion Sort|Quick Sort
+Answer: 4
+
+
+Question: What is the space complexity of Merge Sort?
+Options: O(n)|O(n^2)|O(log n)|O(n log n)
+Answer: 1
+
+
+Question: Which data structure is used to implement depth-first search?
+Options: Queue|Heap|Stack|Graph
+Answer: 3

@@ -1,0 +1,5 @@
+12345|Data Structures Class
+67890|Algorithm Class
+24680|Computer Science Basics
+13579|Java Programming Class
+11223|Data Science Fundamentals
